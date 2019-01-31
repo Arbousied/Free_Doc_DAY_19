@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  frist_name: MyString
+  last_name: MyString
+  specialty: MyString
+  zip_code: MyString
+
+two:
+  frist_name: MyString
+  last_name: MyString
+  specialty: MyString
+  zip_code: MyString
